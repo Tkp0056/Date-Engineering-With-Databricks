@@ -5,7 +5,7 @@ This repository showcases an end-to-end data engineering project focused on cons
 🎯 Project Goal
 The primary objective is to integrate disparate data sources from a newly acquired startup (Sports Bar) into an established retail giant's (Atlon) existing data infrastructure. This addresses data inconsistencies and enables unified reporting and analytics across both entities.
 
-💡 Problem Statement (0:55)
+💡 Problem Statement
 Atlon, a leading sports equipment manufacturer, operates on mature ERP-driven systems with structured data. They recently acquired Sports Bar, a fast-growing startup in athletic nutrition, whose data is highly disorganized, spread across various formats (spreadsheets, cloud drives, WhatsApp exports, APIs).
 
 This merger led to significant data chaos:
