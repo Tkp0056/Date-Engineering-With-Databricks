@@ -1,4 +1,4 @@
-# 🚀 End-to-End Data Engineering Project: FMCG Domain (Databricks) 📊
+# 🚀 End-to-End Data Engineering Project: FMCG Domain (Databricks)
 
 This repository showcases an end-to-end data engineering project focused on consolidating data from two companies within the Fast-Moving Consumer Goods (FMCG) domain. It demonstrates building a robust ETL (Extract, Transform, Load) pipeline using Databricks Free Edition, perfect for both beginners and advanced users.
 
