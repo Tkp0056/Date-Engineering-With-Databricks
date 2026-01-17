@@ -25,7 +25,9 @@ The data engineering team was tasked with building a reliable data layer to prov
 Aggregated Analytics: Provide unified analytics from both companies in a single, reliable dashboard.
 Low Learning Curve: The solution should be easy for new data professionals to learn and adopt.
 Scalability: The solution must be long-term and scalable to accommodate future growth and potential delays in full system migration.
+
 🏛️ Technical Architecture 
+
 The solution leverages a Lakehouse Architecture on Databricks, utilizing the Medallion Architecture (Bronze, Silver, Gold layers) for data processing and transformation.
 
 Atlon's Existing Infrastructure:
